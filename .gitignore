@@ -1,0 +1,42 @@
+# CLion specific
+.idea/
+*.iml
+*.iws
+
+# Build output
+cmake-build-*/
+
+# Dependency directories (uncomment if you're including dependencies in your project)
+# lib/
+# include/
+
+# Executables and static libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+
+# Object files and dynamic link libraries
+*.o
+*.d
+*.a
+
+# Backup files
+*~
+*.swp
+
+# SFML specific (uncomment if you're using SFML static libraries)
+# extlibs/
+
+# Operating system specific
+.DS_Store
+Thumbs.db
+
+# If using CMake, uncomment these
+# CMakeCache.txt
+# CMakeFiles/
+# cmake_install.cmake
+# Makefile
+
+

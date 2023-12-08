@@ -1,0 +1,21 @@
+﻿  Bird.cpp
+  Game.cpp
+C:\Users\Home\Desktop\Games\Flappy Bird\Game.cpp(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Home\Desktop\Games\Flappy Bird\Game.cpp(118,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Home\Desktop\Games\Flappy Bird\Game.cpp(118,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Pipe.cpp
+C:\Users\Home\Desktop\Games\Flappy Bird\Pipe.cpp(12,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 235 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Flappy Bird.vcxproj -> C:\Users\Home\Desktop\Games\Flappy Bird\Release\Flappy Bird.exe
